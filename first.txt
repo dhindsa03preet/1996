@@ -1,5 +1,8 @@
 i am the best
+<<<<<<< HEAD
 welcome  to canada
-i am too bad
-i love myself too
+=======
+i am doing hardwork to achive  my gole
+i love my family
+>>>>>>> 650be8135dbca4f739e2cbde0761f046b4d6a05c
 thank you
